@@ -5,14 +5,14 @@ Route
 }
 from "react-router-dom";
 import Contact from "./pages/Contact";
-import Cart from "./pages/Cart";
+import Cart from "./Pages/Cart";
 import Order from "./Pages/Order";
 
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
-import Home from "./pages/Home";
-import Cakes from "./pages/Cakes";
+import Home from "./Pages/Home";
+import Cakes from "./Pages/Cakes";
 import CakeCard from "./CakeCard";
 
 function App() {
