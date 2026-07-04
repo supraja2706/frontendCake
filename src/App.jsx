@@ -4,7 +4,7 @@ Routes,
 Route
 }
 from "react-router-dom";
-import Contact from "./pages/Contact";
+import Contact from "./Pages/Contact";
 import Cart from "./Pages/Cart";
 import Order from "./Pages/Order";
 
